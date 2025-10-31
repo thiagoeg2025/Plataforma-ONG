@@ -20,15 +20,25 @@ A plataforma foi criada para permitir que ONGs possam:
 
 📦 plataforma-ong
 ├── index.html # Página inicial (institucional, blog, newsletter)
+
 ├── projetos.html # Gestão de projetos e captação de recursos
+
 ├── cadastro.html # Formulário de cadastro de voluntários/doadores
+
 ├── assets/
+
 │ ├── css/
+
 │ │ └── styles.css # Estilos e responsividade
+
 │ ├── js/
+
 │ │ └── main.js # Interatividade e validações
+
 │ ├── images/ # Imagens ilustrativas
+
 │ └── docs/ # Relatórios e documentos públicos
+
 └── README.md
 
 
